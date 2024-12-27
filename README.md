@@ -1,5 +1,3 @@
-Here's the entire content in **Markdown** format:
-
 ```markdown
 # **Lung Cancer Prediction**
 
